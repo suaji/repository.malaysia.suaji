@@ -1,1 +1,1 @@
-# repository.malaysia.suaji
+# suaji-repo
